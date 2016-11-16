@@ -3,7 +3,7 @@ buildscript {
 		springBootVersion = '1.4.1.RELEASE'
 	}
 	repositories {
-		mavenCentral()
+		mavenCentral()cdgdf
 	}
 	dependencies {
 		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
